@@ -1,2 +1,2 @@
-# TechNova-
-landing
+# TechNova
+
